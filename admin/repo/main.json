@@ -1,0 +1,40 @@
+{
+	"game":"Free Hack Quest 2016",
+	"name":"repo",
+	"category":"admin",
+	"description":{
+		"RU":"Найдите пароль от релизной версии",
+		"EN":"Find the password from the release version"
+	},
+	"status": "need verify",
+	"hints":[
+		{
+			"RU":"Смотри историю коммитов",
+			"EN":"See the history of commits"
+		}
+	],
+	"value":100,
+	"flag_type":"static",
+	"flag_key":"FHQ{XApZmqaSa47Wfc8uvsTq}",
+	"files":[
+		{
+			"name":"repo.zip",
+			"location":"repo.zip"
+		}
+	],
+	"links":[
+		{
+			"dropbox":"",
+			"yandex":""
+		}
+	],
+	"authors":[
+		{
+			"team":"keva",
+			"name":"sea-kg",
+			"contacts":[
+				"mrseakg@gmail.com"
+			]
+		}
+	]
+}
