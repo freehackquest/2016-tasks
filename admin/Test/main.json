@@ -1,0 +1,26 @@
+{
+	"game":"Free Hack Quest 2016",
+	"name":"Test",
+	"category":"admin",
+	"description":{
+		"RU":"Как насчет теста? Просто продолжайте последовательность. DCD; RXD; ...",
+		"EN":"How about test? Just continue sequence. DCD;RXD;..."
+	},
+	"status": "need verify",
+	"hints":[
+	],
+	"value":100,
+	"flag_type":"static",
+	"flag_key":"FHQ(DCD;RXD;TXD;DTR;GND;DSR;RTS;CTS;RI)",
+	"files":[
+	],
+	"authors":[
+		{
+			"team":"life",
+			"name":"?",
+			"contacts":[
+				"?"
+			]
+		}
+	]
+}

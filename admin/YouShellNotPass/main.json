@@ -1,0 +1,26 @@
+{
+	"game":"Free Hack Quest 2016",
+	"name":"YouShellNotPass",
+	"category":"admin",
+	"description":{
+		"RU":"АХАХАХАХАХАХААХАХАХАХА! (c) Привет от Mr.S\nfhq1@e6c.ru -p 22222\nPassword: 1234",
+		"EN":"AHAHAHAHAHAHAAHAHAHAHA! (c) hello from Mr.S\nfhq1@e6c.ru -p 22222\nPassword: 1234"
+	},
+	"status": "need verify",
+	"hints":[
+	],
+	"value":300,
+	"flag_type":"static",
+	"flag_key":"FHQ(01dbb5a08c7bc9e461e40a8b220315b0)",
+	"files":[
+	],
+	"authors":[
+		{
+			"team":"life",
+			"name":"?",
+			"contacts":[
+				"?"
+			]
+		}
+	]
+}

@@ -203,10 +203,12 @@ def getFlagKeyFromTask(data, folder):
 	else:
 		flag_key = data['flag_key']
 		pattern = re.compile('FHQ\(.*\)')
+		pattern2 = re.compile('FHQ\{.*\}')
 		m = pattern.match(flag_key)
+		m2 = pattern2.match(flag_key)
 		if flag_key == "":
 			append_errors(folder, 'main.json: Field "flag_key" is empty')
-		elif not m:
+		elif not m and not m2:
 			append_errors(folder, 'main.json: Wrong value of field "flag_key" must be format "FHQ(`md5`) or FHQ(`sometext`)"')
 	return flag_key
 	

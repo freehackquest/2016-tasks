@@ -1,0 +1,30 @@
+{
+	"game":"Free Hack Quest 2016",
+	"name":"admin_vol.1",
+	"category":"admin",
+	"description":{
+		"RU":"Найдите пользователя,который очень любит \"Матрицу\" и \"Алису в стране чудес\", http://wiki.mikrotik.com/wiki/Manual:TOC",
+		"EN":"Find a user who is fan of \"The Matrix\" and \"Alice in Wonderland \", http://wiki.mikrotik.com/wiki/Manual:TOC"
+	},
+	"status": "need verify",
+	"hints":[
+	],
+	"value":200,
+	"flag_type":"static",
+	"flag_key":"FHQ{w4k3_up_n30}",
+	"files":[
+		{
+			"name":"Mik_vbox.tar.gz",
+			"location":"Mik_vbox.tar.gz"
+		}
+	],
+	"authors":[
+		{
+			"team":"life",
+			"name":"?",
+			"contacts":[
+				"?"
+			]
+		}
+	]
+}
