@@ -1,0 +1,32 @@
+{
+	"game":"Free Hack Quest 2016",
+	"name":"Classic",
+	"category":"crypto",
+	"description":{
+		"RU":"Нам нравится классический! \"Km'x kd cneulnu, gecpnr? KZF(Vkkggjjt_iu_wq_vqshskg)\"",
+		"EN":"We like a classic! \"Km'x kd cneulnu, gecpnr? KZF(Vkkggjjt_iu_wq_vqshskg)\""
+	},
+	"status": "checked",
+	"hints":[
+	],
+	"value":100,
+	"flag_type":"static",
+	"flag_key":"FHQ(Vigenere_is_so_classic)",
+	"files":[
+		{
+			"name":"Classic.jpg",
+			"location":"Classic.jpg"
+		}
+	],
+	"links":[
+	],
+	"authors":[
+		{
+			"team":"Life",
+			"name":"?",
+			"contacts":[
+				"?"
+			]
+		}
+	]
+}
