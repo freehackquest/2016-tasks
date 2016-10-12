@@ -1,0 +1,36 @@
+{
+	"game":"Free Hack Quest 2016",
+	"name":"Easy",
+	"category":"crypto",
+	"description":{
+		"RU":"Хорошо, мы хотим, чтобы вы сделать небольшой тест. \n Все, что нужно, можно найти в файле.",
+		"EN":"Ok, we want you to make a small test.\nEverything you need can be found in the file."
+	},
+	"status": "checked",
+	"hints":[
+	],
+	"value":200,
+	"flag_type":"static",
+	"flag_key":"FHQ(b5b037a78522671b89a2c1b21d9b80c6)",
+	"files":[
+		{
+			"name":"Easy.txt",
+			"location":"Easy.txt"
+		},
+		{
+			"name":"Easy.jpg",
+			"location":"Easy.jpg"
+		}
+	],
+	"links":[
+	],
+	"authors":[
+		{
+			"team":"Life",
+			"name":"?",
+			"contacts":[
+				"?"
+			]
+		}
+	]
+}

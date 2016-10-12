@@ -1,0 +1,37 @@
+{
+	"game":"Free Hack Quest 2016",
+	"name":"Like",
+	"category":"crypto",
+	"description":{
+		"RU":"Тебе понравится!",
+		"EN":"You like this!"
+	},
+	"hints":[
+		
+	],
+	"status": "checked",
+	"value":100,
+	"flag_type":"static",
+	"flag_key":"FHQ(Y0U_L1KE_TH1$)",
+	"files":[
+		{
+			"name":"Like.txt",
+			"location":"Like.txt"
+		},
+		{
+			"name":"Like.jpg",
+			"location":"Like.jpg"
+		}
+	],
+	"links":[
+	],
+	"authors":[
+		{
+			"team":"Life",
+			"name":"?",
+			"contacts":[
+				"?"
+			]
+		}
+	]
+}

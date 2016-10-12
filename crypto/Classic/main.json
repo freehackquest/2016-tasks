@@ -9,7 +9,7 @@
 	"status": "checked",
 	"hints":[
 	],
-	"value":100,
+	"value":300,
 	"flag_type":"static",
 	"flag_key":"FHQ(Vigenere_is_so_classic)",
 	"files":[

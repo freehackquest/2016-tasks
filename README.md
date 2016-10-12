@@ -7,17 +7,19 @@
  * admin 200  "admin_vol.1" by [life] ? (?)
  * admin 100  "repo" by [keva] sea-kg (mrseakg@gmail.com)
  * admin 300  "usr.bin.shell" by [life] ? (?)
- * crypto 100  "Classic" by [Life] ? (?)
- * unknown 0  "./crypto/Data" by ()
+ * crypto 300  "Classic" by [Life] ? (?)
+ * crypto 500  "Data" by [Life] ? (?)
+ * crypto 200  "Easy" by [Life] ? (?)
+ * crypto 100  "Like" by [Life] ? (?)
+ * crypto 400  "Zeus" by [Life] ? (?)
 
 ## Statistics by categories
 
 |Category|Count|Summary value
 |---|---|---
 |admin|5|1000
-|crypto|1|100
-|unknown|1|0
-|All|7|1100
+|crypto|5|1500
+|All|10|2500
 
 
 ## Status table
@@ -29,5 +31,8 @@
 |admin 200|admin_vol.1|need verify|[life] ? (?)
 |admin 300|YouShellNotPass|need verify|[life] ? (?)
 |admin 300|usr.bin.shell|need verify|[life] ? (?)
-|crypto 100|Classic|checked|[Life] ? (?)
-|unknown 0|./crypto/Data|invalid json|()
+|crypto 100|Like|checked|[Life] ? (?)
+|crypto 200|Easy|checked|[Life] ? (?)
+|crypto 300|Classic|checked|[Life] ? (?)
+|crypto 400|Zeus|checked|[Life] ? (?)
+|crypto 500|Data|checked|[Life] ? (?)

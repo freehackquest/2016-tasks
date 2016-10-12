@@ -3,13 +3,13 @@
 	"name":"Data",
 	"category":"crypto",
 	"description":{
-		"RU":"Запись из дневника Mr. S от 12 ноября 2056 года, <данные затерты>..\n\"Наконец то я смог найти ответ на все вопросы...\nНужно хорошо спрятать его, а не то Fade опять все испортит.\n<данные стерты>\nSecret_message = '0d0f1803303b2633363632262d3c35354004'\n<данные стерты>\nНадо кстати не забыть удалить алгоритм шифрования...\n"",
-		"EN":""
+		"RU":"Запись из дневника Mr. S от 12 ноября 2056 года, <данные стерты>..\n\"Наконец то я смог найти ответ на все вопросы...\n Нужно хорошо спрятать его, а не то Fade опять все испортит.\n<данные стерты> \n Secret_message = '0d0f1803303b2633363632262d3c35354004' \n <данные стерты> \n Надо кстати не забыть удалить алгоритм шифрования...\n\"",		
+		"EN":"Recording from the diary of Mr. S on November 12, 2056, <erased data> ... \n \"Finally I was able to find an answer to all the questions ... \n It is necessary to hide it well, and not Fade ruin everything again. \n <erased data> \n Secret_message = '0d0f1803303b2633363632262d3c35354004' \n <erased data> \n It must be the way do not forget to remove the encryption algorithm ... \n\""
 	},
 	"status": "checked",
 	"hints":[
 	],
-	"value":100,
+	"value":500,
 	"flag_type":"static",
 	"flag_key":"FHQ(it_look_funny)",
 	"files":[
