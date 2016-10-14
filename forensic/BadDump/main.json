@@ -1,0 +1,32 @@
+{
+	"game":"Free Hack Quest 2016",
+	"name":"BadDump",
+	"category":"forensic",
+	"description":{
+		"RU":"Мы нашли странный дамп.\n Wireshark не может его открыть.\n Можешь помочь?",
+		"EN":"We are detected strange dump.\n Wireshark can not open this file.\n Can you help?"
+	},
+	"status": "checked",
+	"hints":[
+	],
+	"value":200,
+	"flag_type":"static",
+	"flag_key":"FHQ(rotu)",
+	"files":[
+		{
+			"name":"BadDump.cap",
+			"location":"BadDump.cap"
+		}
+	],
+	"links":[
+	],
+	"authors":[
+		{
+			"team":"Life",
+			"name":"?",
+			"contacts":[
+				"?"
+			]
+		}
+	]
+}

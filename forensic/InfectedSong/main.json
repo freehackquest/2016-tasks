@@ -1,0 +1,36 @@
+{
+	"game":"Free Hack Quest 2016",
+	"name":"InfectedSong",
+	"category":"forensic",
+	"description":{
+		"RU":"Описание в story.txt. Format_Flag='FHQ(someNumber)'",
+		"EN":"Description in story.txt. Format_Flag='FHQ(someNumber)'"
+	},
+	"status": "checked",
+	"hints":[
+	],
+	"value":500,
+	"flag_type":"static",
+	"flag_key":"FHQ(855690286)",
+	"files":[
+		{
+			"name":"Infected_song.wav",
+			"location":"Infected_song.wav"
+		},
+		{
+			"name":"story.txt",
+			"location":"story.txt"
+		}
+	],
+	"links":[
+	],
+	"authors":[
+		{
+			"team":"Life",
+			"name":"?",
+			"contacts":[
+				"?"
+			]
+		}
+	]
+}

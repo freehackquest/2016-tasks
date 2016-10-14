@@ -1,0 +1,35 @@
+{
+	"game":"Free Hack Quest 2016",
+	"name":"LogicAnalyzer",
+	"category":"forensic",
+	"description":{
+		"RU":"Описание в story.txt. Format_Flag='FHQ(IP)'",
+		"EN":"Description in story.txt. Format_Flag='FHQ(IP)'"
+	},
+	"status": "checked",
+	"hints":[
+	],
+	"value":400,
+	"flag_type":"static",
+	"flag_key":"FHQ(224.1.78.11)",
+	"files":[
+		{
+			"name":"story.txt",
+			"location":"story.txt"
+		}
+	],
+	"links":[
+		{
+			"googledrive": "https://drive.google.com/file/d/0BzfPP2u0U3CsTWZzRTVKS0JXYWs/view?usp=sharing"
+		}
+	],
+	"authors":[
+		{
+			"team":"Life",
+			"name":"?",
+			"contacts":[
+				"?"
+			]
+		}
+	]
+}

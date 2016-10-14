@@ -12,6 +12,9 @@
  * crypto 200  "Easy" by [Life] ? (?)
  * crypto 100  "Like" by [Life] ? (?)
  * crypto 400  "Zeus" by [Life] ? (?)
+ * forensic 200  "BadDump" by [Life] ? (?)
+ * forensic 500  "InfectedSong" by [Life] ? (?)
+ * forensic 400  "LogicAnalyzer" by [Life] ? (?)
 
 ## Statistics by categories
 
@@ -19,7 +22,8 @@
 |---|---|---
 |admin|5|1000
 |crypto|5|1500
-|All|10|2500
+|forensic|3|1100
+|All|13|3600
 
 
 ## Status table
@@ -36,3 +40,6 @@
 |crypto 300|Classic|checked|[Life] ? (?)
 |crypto 400|Zeus|checked|[Life] ? (?)
 |crypto 500|Data|checked|[Life] ? (?)
+|forensic 200|BadDump|checked|[Life] ? (?)
+|forensic 400|LogicAnalyzer|checked|[Life] ? (?)
+|forensic 500|InfectedSong|checked|[Life] ? (?)
